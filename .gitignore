@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+__init__.py
+/settings/secret.py
+__pycache__
+*.egg-info/
+*.egg
